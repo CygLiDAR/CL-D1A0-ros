@@ -1,5 +1,5 @@
-# cl-d1a0-ros
-cl-d1a0-ros is a ROS package, which is designed to visualize 2D/3D distance dataset in real-time.
+# cld1a0_pcl
+cld1a0_pcl is a ROS package, which is designed to visualize 2D/3D distance dataset in real-time.
 For more details in the 2D/3D ToF LiDAR, please visit http://www.cygbot.com
 
 ## How to build this package
@@ -11,7 +11,7 @@ For more details in the 2D/3D ToF LiDAR, please visit http://www.cygbot.com
 source devel/setup.bash
 ls -l /dev | grep ttyUSB
 sudo chmod 666 /dev/ttyUSB0
-roslaunch cyglidar_pcl cyglidar_pcl.launch
+roslaunch cld1a0_pcl cld1a0_pcl.launch
 ```
 
 The result if the commands succeeded: 
