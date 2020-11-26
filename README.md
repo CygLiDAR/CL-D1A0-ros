@@ -1,8 +1,8 @@
-# CL-D1A0-ros
-CL-D1A0-ros is a ROS package, which is designed to visualize 2D/3D distance dataset in real-time.
+# cl-d1a0-ros
+cl-d1a0-ros is a ROS package, which is designed to visualize 2D/3D distance dataset in real-time.
 For more details in the 2D/3D ToF LiDAR, please visit http://www.cygbot.com
 
-## How to build CL-D1A0 ros package
+## How to build this package
 ### Preparation
 1) Clone this project to your catkin's workspace
 2) Run catkin_make
