@@ -1,7 +1,0 @@
-<launch>
-    <node pkg="cyglidar_pcl" type="cyglidar_pcl_publisher" name="line_laser" output="screen">
-    <param name="port" value="/dev/ttyUSB0"/>
-    <param name="baud_rate" value="3000000"/>
-    <param name="frame_id" value="base_laser_link"/>
-    </node>
-</launch>
