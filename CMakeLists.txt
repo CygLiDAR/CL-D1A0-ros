@@ -8,6 +8,8 @@ set(extra_flags -std=c++11 -Werror -Wall -Wextra)
 set(CMAKE_CXX_FLGAS "${CMAKE_CXX_FLAGS} ${extra_flags}")
 set(CMAKE_C_LINK_EXECUTABLE ${CMAKE_CXX_LINK_EXECUTABLE})
 
+add_compile_options(-std=c++11)
+
 add_definitions(${COMPILE_FLAGS} ${PCL_DEFINITIONS})
 add_definitions(-Wall -O2)
 
