@@ -14,8 +14,6 @@ sudo chmod 666 /dev/ttyUSB0
 roslaunch cld1a0_pcl cld1a0_pcl.launch
 ```
 
-The result if the commands succeeded: 
-
 ## Parameters
 The parameters for 2D and 3D are 0 and 1 respectively as done below:
 
