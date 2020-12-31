@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 2.8.3)
 
 set(PROJECTNAME "cld1a0_pcl")
-project(${PROJECTNAME} CXX)
+project(${PROJECTNAME} CXX C)
 
 
 set(extra_flags -std=c++11 -Werror -Wall -Wextra)
