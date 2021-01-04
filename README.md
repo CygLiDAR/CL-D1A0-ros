@@ -28,13 +28,12 @@ The parameters for 2D and 3D are 0 and 1 respectively as follows:
 ```bash
 base_laser_link
 ```
-If you don't have the topic on Displays, the param is also mandatory.
 ### Topic
 ```bash
 /scan
 ```
 ### Point Size
-Above 5.0 is appropriate in both 2D and 3D.
+The appropriate size is above 5.0 in both 2D and 3D.
 
 2D)
 <h1 align="center">
