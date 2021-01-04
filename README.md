@@ -12,7 +12,7 @@ roslaunch cld1a0_pcl cld1a0_pcl.launch
 ```
 
 ## Parameters
-The parameters for 2D and 3D are 0 and 1 respectively as done below:
+The parameters for 2D and 3D are 0 and 1 respectively as follows:
 
 2D)
 <h1 align="left">
