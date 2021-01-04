@@ -24,7 +24,6 @@ The parameters for 2D and 3D are 0 and 1 respectively as follows:
   <img src="screenshots/param_3d.png" width="600"/>
 </h1>
 
-After adding PointCloud2 on RVIZ, the fixed frame is required to be given.
 ### Fixed Frame
 ```bash
 base_laser_link
