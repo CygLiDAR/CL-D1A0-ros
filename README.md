@@ -8,9 +8,6 @@ For more details in the 2D/3D ToF LiDAR, please visit http://www.cygbot.com
 2) Run catkin_make
 ### Set-Up
 ```bash
-source devel/setup.bash
-ls -l /dev | grep ttyUSB
-sudo chmod 666 /dev/ttyUSB0
 roslaunch cld1a0_pcl cld1a0_pcl.launch
 ```
 
